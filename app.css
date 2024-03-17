@@ -1,0 +1,150 @@
+body {
+    background: url(./img/app_icons.jpg);
+}
+
+.container {
+    width: 1120px;
+    height: 600px;
+    display: flex;
+    gap: 20px;
+    margin: auto;
+}
+
+.card_father_1 {
+    border: 2px solid green;
+    width: 400px;
+    height: 650px;
+    background: white;
+    border-radius: 30px;
+}
+
+.card_img_1 {
+    height: 370px;
+    border-radius: 30px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card_header_1 {
+    text-align: center;
+    width: 100%;
+    font-size: 50px;
+    margin: 0px 0px 0px 0px;
+}
+
+.card_paragraph_1 {
+    width: 100%;
+    margin: 10px 0px 0px 0px;
+    font-weight: 500;
+    text-align: center;
+    font-size: 25px;
+}
+
+.card_link_1 {
+    border-radius: 0px 0px 30px 30px;
+    background: greenyellow;
+    width: 100%;
+    height: 30px;
+    margin: 120px 0px 0px 0px;
+    text-align: center;
+    font-size: 25px;
+}
+/* ------------------------------------------ */
+
+/* 2 */
+
+.card_father_2 {
+    border: 2px solid green;
+    width: 400px;
+    height: 650px;
+    background: white;
+    border-radius: 30px;
+}
+
+.card_img_2 {
+    border-radius: 30px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card_header_2 {
+    text-align: center;
+    width: 100%;
+    font-size: 50px;
+    margin: 0px 0px 0px 0px;
+}
+
+.card_paragraph_2 {
+    width: 100%;
+    margin: 10px 0px 0px 0px;
+    font-weight: 500;
+    text-align: center;
+    font-size: 25px;
+}
+
+.card_link_2 {
+    border-radius: 0px 0px 30px 30px;
+    background: greenyellow;
+    width: 100%;
+    height: 30px;
+    margin: 120px 0px 0px 0px;
+    text-align: center;
+    font-size: 25px;
+}
+
+/* --------------------------------------- */
+
+/* 3 */
+
+
+.card_father_3 {
+    border: 2px solid green;
+    width: 400px;
+    height: 650px;
+    background: white;
+    border-radius: 30px;
+}
+
+.card_img_3 {
+    width: 400px;
+    height: 370px;
+    border-radius: 30px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card_header_3 {
+    text-align: center;
+    width: 100%;
+    font-size: 50px;
+    margin: 0px 0px 0px 0px;
+}
+
+.card_paragraph_3 {
+    width: 100%;
+    margin: 10px 0px 0px 0px;
+    font-weight: 500;
+    text-align: center;
+    font-size: 25px;
+}
+
+.card_link_3 {
+    border-radius: 0px 0px 30px 30px;
+    background: greenyellow;
+    width: 100%;
+    height: 30px;
+    margin: 120px 0px 0px 0px;
+    text-align: center;
+    font-size: 25px;
+}
+
+/* --------------------------------------- */
